@@ -10,5 +10,3 @@ Airbnb data for Boston, MA
 4.	Provide a list of the top 5 rentals that have the most booking revenue in each room type category with their host names.
 5.	Can you partition the listing name to be able to filter by the number of bedrooms and bathrooms?
 6.	Airbnb added a new amenity feature flag for fireplaces available in the rentals.  Hosts were able to start selecting this fireplace feature flag amenity after 1/1/2018.  What kinds of questions would you ask of this data set to see what kind of business impact this feature flag might be having?  What sample queries would support this analysis?
-
-
